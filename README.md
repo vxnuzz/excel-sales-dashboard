@@ -119,19 +119,81 @@ Dashboard Comercial.xlsm
 
 ---
 
-# ⚙ Como utilizar
+### ⚙️ Como utilizar
 
-1. Baixe o arquivo **Dashboard Comercial.xlsm**
-
-2. Habilite as macros ao abrir o arquivo.
-
-3. Utilize as segmentações para filtrar os indicadores.
-
-4. Clique em **Registrar Venda** para cadastrar uma nova oportunidade.
-
-5. Clique em **Atualizar Dados** para atualizar os indicadores e gráficos.
+1. Baixe o arquivo **Dashboard Comercial.xlsm**.
+2. Desbloqueie o arquivo antes de abrir no Excel.
+3. Habilite as macros ao abrir o projeto.
+4. Utilize as segmentações para filtrar os indicadores.
+5. Clique em **Registrar Venda** para cadastrar uma nova oportunidade.
+6. Clique em **Atualizar Dados** para atualizar os indicadores e gráficos.
 
 ---
+
+## 🔓 Como desbloquear e habilitar as macros
+
+> Em alguns computadores, arquivos `.xlsm` baixados da internet podem vir bloqueados por segurança.  
+> Para que as macros funcionem corretamente, siga o passo a passo abaixo.
+
+### 1. Localize o arquivo baixado
+
+<p align="center">
+  <img src="images/1.png" width="900">
+</p>
+
+---
+
+### 2. Clique com o botão direito no arquivo
+
+Selecione a opção **Properties**.
+
+<p align="center">
+  <img src="images/2.png" width="900">
+</p>
+
+---
+
+### 3. Marque a opção Unblock
+
+Na janela de propriedades, marque a caixa **Unblock**.
+
+<p align="center">
+  <img src="images/3.png" width="900">
+</p>
+
+---
+
+### 4. Clique em Apply
+
+Após marcar **Unblock**, clique em **Apply** para salvar a alteração.
+
+<p align="center">
+  <img src="images/4.png" width="900">
+</p>
+
+---
+
+### 5. Clique em OK
+
+Depois de aplicar a alteração, clique em **OK** para fechar a janela.
+
+<p align="center">
+  <img src="images/5.png" width="900">
+</p>
+
+---
+
+### 6. Abra o arquivo e habilite as macros
+
+Ao abrir o arquivo no Excel, clique em **Enable Content** para habilitar as macros.
+
+<p align="center">
+  <img src="images/6.png" width="900">
+</p>
+
+---
+
+> ✅ Após realizar esse processo uma vez, o arquivo estará pronto para uso no seu computador.
 
 # ⚡ Automações Implementadas
 
