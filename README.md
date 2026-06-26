@@ -1,3 +1,7 @@
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-Visual_Basic-blue?style=for-the-badge)
+![Dashboard](https://img.shields.io/badge/Dashboard-Interactive-purple?style=for-the-badge)
+![BI](https://img.shields.io/badge/Business-Intelligence-success?style=for-the-badge)
 ## Dashboard
 
 <p align="center">
@@ -18,19 +22,25 @@ Dashboard comercial desenvolvido em Microsoft Excel e VBA para automatizar o cad
 
 ## Dashboard
 
-(Imagem Dashboard)
+<p align="center">
+  <img src="images/dashboard.png" width="900">
+</p>
 
 ---
 
 ## Cadastro de Vendas
 
-(Imagem UserForm)
+<p align="center">
+  <img src="images/cadastro.png" width="350">
+</p>
 
 ---
 
 ## Base de Dados
 
-(Imagem Base)
+<p align="center">
+  <img src="images/base.png" width="900">
+</p>
 
 ---
 
@@ -73,14 +83,14 @@ O dashboard monitora indicadores comerciais inspirados em um cenário real de ve
 # 🛠 Tecnologias
 
 | Tecnologia | Utilização |
-|------------|------------|
-| Microsoft Excel | Desenvolvimento principal |
-| VBA | Automação |
-| Pivot Tables | Consolidação dos dados |
-| GETPIVOTDATA | Indicadores |
-| Slicers | Filtros interativos |
-| Hyperlinks | Navegação |
-| Conditional Formatting | Destaque visual |
+|---------------------------|---------------------------|
+| Microsoft Excel           | Desenvolvimento principal |
+| VBA                       | Automação                 |
+| Pivot Tables              | Consolidação dos dados    |
+| GETPIVOTDATA              | Indicadores               |
+| Slicers                   | Filtros interativos       |
+| Hyperlinks                | Navegação                 |
+| Conditional Formatting    | Destaque visual           |
 
 ---
 
